@@ -1,5 +1,11 @@
 body{
-    background: hotpink;
+    margin:0;
+    padding:0;
+    background: white;
+}
+
+.header{
+    max-width: 1200;
 }
 
 h1{
